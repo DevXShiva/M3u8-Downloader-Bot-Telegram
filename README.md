@@ -144,7 +144,7 @@ python bot.py
 # 📁 Project Structure
 
 ```text
-FastUploaderBot/
+M3u8-Downloader-Bot-Telegram/
 │
 ├── bot.py
 ├── config.py
