@@ -1,4 +1,4 @@
-# 🚀 FastUploader Bot
+# 🚀 M3U8 Downloader Telegram Bot
 
 Advanced Telegram M3U8 Video Downloader & Uploader Bot powered by **Pyrogram**, **yt-dlp**, and **FFmpeg**.
 
